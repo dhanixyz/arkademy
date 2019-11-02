@@ -1,6 +1,6 @@
 # Arkademy Project
 
-Bahasa pemrograman yang saya gunakan : **PHP**
+Bahasa pemrograman yang saya gunakan : **PHP** <br>
 Software yang dibutuhkan : **XAMPP**
 
 Terdapat 5 file fungsi hasil pengerjaan saya, yaitu:
